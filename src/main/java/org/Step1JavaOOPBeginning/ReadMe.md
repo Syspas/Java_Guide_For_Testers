@@ -5,11 +5,11 @@
 Пример использования:
 ```java
 /**
- * Класс Main, содержащий точку входа в программу. 
+ * Класс org.Step1JavaOOPBeginning.HomeWork.Task1.Main, содержащий точку входа в программу. 
  * В нем создается объект хамелеона и демонстрируется 
  * использование его методов.
  */
-public class Main {
+public class org.Step1JavaOOPBeginning.HomeWork.Task1.Main {
     public static void main(String[] args) {
         Chameleon chameleon = new Chameleon("Зеленый", "зеленый", 10); // Создание объекта хамелеона
         chameleon.camouflage(); // Вызов метода маскировки

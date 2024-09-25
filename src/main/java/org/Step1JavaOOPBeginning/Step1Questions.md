@@ -52,7 +52,7 @@
 
 • Что такое полиморфизм в Java?
 
-• Как полиморфизм проявляется в примере с классами Animal, Dog и Cat?
+• Как полиморфизм проявляется в примере с классами Animal, org.Step1JavaOOPBeginning.HomeWork.Task1.Dog и org.Step1JavaOOPBeginning.HomeWork.Task1.Cat?
 
 • Как используется полиморфизм в методе hunt() класса Chameleon?
 

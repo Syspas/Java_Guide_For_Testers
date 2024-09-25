@@ -1,4 +1,4 @@
-package org.Step1JavaOOPBeginning.JungleStory;
+package org.Step1JavaOOPBeginning.etc.JungleStory;
 public class Main {
     public static void main(String[] args) {
 

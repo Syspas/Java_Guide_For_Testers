@@ -1,4 +1,4 @@
-package org.Step1JavaOOPBeginning.JungleStory;
+package org.Step1JavaOOPBeginning.etc.JungleStory;
 import java.util.Random;
 
 public class JungleCreationStory {

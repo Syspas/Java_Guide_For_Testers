@@ -1,7 +1,7 @@
 package org.Step1JavaOOPBeginning.Lizard;
 
 /**
- * Класс Main, содержащий точку входа в программу.
+ * Класс org.Step1JavaOOPBeginning.HomeWork.Task1.Main, содержащий точку входа в программу.
  * В нем создается объект хамелеона и демонстрируется
  * использование его методов.
  */

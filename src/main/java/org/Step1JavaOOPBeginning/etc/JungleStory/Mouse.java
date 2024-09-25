@@ -1,4 +1,4 @@
-package org.Step1JavaOOPBeginning.JungleStory;
+package org.Step1JavaOOPBeginning.etc.JungleStory;
 
 /**
  * Класс, представляющий мышь, которой питается ящерица.
