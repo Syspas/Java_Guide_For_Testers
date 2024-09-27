@@ -2,14 +2,14 @@
 
 ### 1. Создание класса "Животное"
 
-* **Задание:**  Создайте класс `Animal`  с полями:
+* **Задание:**  Создайте класс `Animal.org.Step2JavaOOPBeginning.Animal`  с полями:
     * `name` (String): имя животного
     * `age` (int): возраст животного
     * `species` (String): вид животного
-* **Добавьте**  в  класс  `Animal`  методы:
+* **Добавьте**  в  класс  `Animal.org.Step2JavaOOPBeginning.Animal`  методы:
     * `makeSound()`:  выводит  на  консоль  звук,  который  издает  животное
     * `move()`:  выводит  на  консоль  информацию  о  том,  как  движется  животное
-* **Создайте**  подклассы  `org.Step1JavaOOPBeginning.HomeWork.Task1.Dog`  и  `org.Step1JavaOOPBeginning.HomeWork.Task1.Cat`,  которые  наследуют  от  `Animal`.  Переопределите  методы  `makeSound()`  и  `move()`  в  подклассах  так,  чтобы  они  выводили  соответствующие  звуки  и  движения  для  собаки  и  кошки.
+* **Создайте**  подклассы  `org.Step1JavaOOPBeginning.HomeWork.Task1.Dog`  и  `org.Step1JavaOOPBeginning.HomeWork.Task1.Cat`,  которые  наследуют  от  `Animal.org.Step2JavaOOPBeginning.Animal`.  Переопределите  методы  `makeSound()`  и  `move()`  в  подклассах  так,  чтобы  они  выводили  соответствующие  звуки  и  движения  для  собаки  и  кошки.
 
 ### 2. Модель "Автомобиль"
 

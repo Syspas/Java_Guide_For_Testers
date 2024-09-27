@@ -1,10 +1,10 @@
 # Проект "Животное"
 
-Этот проект демонстрирует концепцию наследования и полиморфизма в Java с использованием базового класса `Animal` и его подклассов `Dog` и `org.Step1JavaOOPBeginning.HomeWork.Task1.Cat`.
+Этот проект демонстрирует концепцию наследования и полиморфизма в Java с использованием базового класса `Animal.org.Step2JavaOOPBeginning.Animal` и его подклассов `Dog` и `org.Step1JavaOOPBeginning.HomeWork.Task1.Cat`.
 
 ## Описание классов
 
-### Класс `Animal`
+### Класс `Animal.org.Step2JavaOOPBeginning.Animal`
 
 Базовый класс, представляющий животное.
 
@@ -79,7 +79,7 @@ javadoc -d doc *.java
 
 1. Скомпилируйте все файлы:
    ```sh
-   javac Main.java Animal.java Dog.java org.Step1JavaOOPBeginning.HomeWork.Task1.Cat.java
+   javac Main.java Animal.org.Step2JavaOOPBeginning.Animal.java Dog.java org.Step1JavaOOPBeginning.HomeWork.Task1.Cat.java
    ```
 
 2. Запустите класс `Main`:

@@ -2,7 +2,7 @@ package org.Step1JavaOOPBeginning.Lizard;
 
 
 /**
- * Класс Chameleon представляет хамелеона,
+ * Класс Step2JavaOOPBeginning.Animal.Chameleon представляет хамелеона,
  * описывая его свойства и действия.
  */
 public class Сhameleon {
@@ -22,7 +22,7 @@ public class Сhameleon {
     int speed; // Скорость хамелеона.
 
     /**
-     * Конструктор класса Chameleon.
+     * Конструктор класса Step2JavaOOPBeginning.Animal.Chameleon.
      *
      * @param name  Имя хамелеона.
      * @param color Цвет хамелеона.

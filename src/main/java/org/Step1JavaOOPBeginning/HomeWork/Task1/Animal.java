@@ -1,6 +1,6 @@
 package org.Step1JavaOOPBeginning.HomeWork.Task1;
 /**
- * Базовый класс Animal, представляющий животное.
+ * Базовый класс Step2JavaOOPBeginning.Animal.Animal, представляющий животное.
  */
 public class Animal {
     protected String name;
@@ -8,7 +8,7 @@ public class Animal {
     protected String species;
 
     /**
-     * Конструктор для создания объекта Animal.
+     * Конструктор для создания объекта Step2JavaOOPBeginning.Animal.Animal.
      *
      * @param name Имя животного.
      * @param age Возраст животного.
